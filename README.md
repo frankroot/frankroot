@@ -1,6 +1,6 @@
 ### Hola 👋
 
-Mi nombres es Frankier Flores, soy Ingeniero en Telemática y AWS Certified Cloud Practitioner. Me encanta todo lo que tiene que ver con automatización, por lo que tengo mi ruta de aprendizaje bien definida, DevOps.
+Mi nombre es Frankier Flores, soy Ingeniero en Telemática y AWS Certified Cloud Practitioner. Me encanta todo lo que tiene que ver con automatización, por lo que tengo mi ruta de aprendizaje bien definida, DevOps.
 
 - Soy Cofundador de [Crashell](https://www.crashell.com).
 - Colaboro con **OpenWebinar**, redactando artículos para el Blog.
